@@ -1,0 +1,21 @@
+[submodule "Rotating-the-Gaming-Object"]
+	path = Rotating-the-Gaming-Object
+	url = https://github.com/Ronick2005/Rotating-the-Gaming-Object.git
+[submodule "Exp02-RollABall"]
+	path = Exp02-RollABall
+	url = https://github.com/Ronick2005/Exp02-RollABall.git
+[submodule "Ex3---Hurdle-Game-2D"]
+	path = Ex3---Hurdle-Game-2D
+	url = https://github.com/Ronick2005/Ex3---Hurdle-Game-2D.git
+[submodule "Ex4.1-Animal-Feeding-Phase1"]
+	path = Ex4.1-Animal-Feeding-Phase1
+	url = https://github.com/Ronick2005/Ex4.1-Animal-Feeding-Phase1.git
+[submodule "Ex4.2-Animal-Feeding-Phase-2"]
+	path = Ex4.2-Animal-Feeding-Phase-2
+	url = https://github.com/Ronick2005/Ex4.2-Animal-Feeding-Phase-2.git
+[submodule "Ex5-Animator-Movement"]
+	path = Ex5-Animator-Movement
+	url = https://github.com/Ronick2005/Ex5-Animator-Movement.git
+[submodule "Ex06-Redirecting-the-Scene"]
+	path = Ex06-Redirecting-the-Scene
+	url = https://github.com/Ronick2005/Ex06-Redirecting-the-Scene.git
